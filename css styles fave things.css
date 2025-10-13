@@ -1,7 +1,15 @@
-h1 {color: red;
+h1 {color: rgb(179, 115, 203);
     text-align: center;
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-size: 3em;}
+
+ 
+{
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 
 ul {background-color: lightpink;
 
