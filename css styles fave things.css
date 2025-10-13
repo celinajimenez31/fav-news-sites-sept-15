@@ -3,13 +3,14 @@ h1 {color: rgb(179, 115, 203);
     text-transform: lowercase;
     font-size: 3em;}
 
- 
-{
-  font-family: "EB Garamond", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond">
+<style>
+body {
+  font-family: "Garamond", serif;
 }
+</style>
+</head>
 
 ul {background-color: lightpink;
 
