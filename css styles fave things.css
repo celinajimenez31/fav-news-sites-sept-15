@@ -1,0 +1,24 @@
+h1 {color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;}
+
+ul {background-color: lightpink;
+
+}
+
+li {
+    color: blueviolet;
+    font-weight: 900;
+}
+
+.odd {
+    color: blue
+    text-transform: lowercase;
+}
+
+.even {
+    color: purple
+}
+
+#head5 {color: black}
