@@ -9,6 +9,12 @@ body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
 h1 {color: rgb(179, 115, 203);
     text-align: center;
     text-transform: lowercase;
@@ -17,6 +23,11 @@ h1 {color: rgb(179, 115, 203);
 h2 {
     color: rgb(210, 99, 156);
     text-align: left;
+}
+
+h3 {
+    background-color: seashell;
+    text-align: center;
 }
 
 li {
